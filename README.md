@@ -1,8 +1,12 @@
-### Hi there 👋
+# hey hey
+## i'm drew emery, pleased to meet you!
+## to be honest, i don't know what brought you here
+## BUT i'm interested in finding out
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethinallen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### i make terrible websites on the side
+### for work i'm an identity solutions engineer @auth0
 
-- 🔭 I’m an identity solutions engineer at Auth0
-- 💬 Ask me about anything!
-- 📫 How to reach me: andrewbemery@gmail.com
-- 😄 Pronouns: he/him/his
+
+if you're in seattle and want some restaurant recommendations or to chat over coffee feel free to get in touch!
+
+i can most reliably be reached at: andrewbemery@gmail.com
