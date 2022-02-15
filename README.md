@@ -13,5 +13,3 @@ if you're in seattle and want some restaurant recommendations or to chat over co
 ```
 
 i can most reliably be reached at: drew@emery.guru
-
-![Metrics](/github-metrics.svg)
