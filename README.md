@@ -3,7 +3,7 @@ i'm drew emery, pleased to meet you!
 to be honest, i don't know what brought you here
 BUT i'm interested in finding out
 
-my interest in computer science and web technologies first started at (CUhackit)[https://www.cuhack.it]; 
+my interest in computer science and web technologies first started at [CUhackit](https://www.cuhack.it); 
 through a lot of exploration and endless amounts of support from my peers, i ended up getting to work with 
 some really cool people and learn a lot about cloud services.
 
