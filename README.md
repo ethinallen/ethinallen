@@ -12,7 +12,8 @@ my SME fight but i've since learned we'll get to our goals faster together. so S
 recreate the wheel together.
 
 for work i'm an identity solutions engineer @auth0 / @okta
-i make terrible websites on the side
+on the side i make terrible websites
+
 
 if you're in seattle and want some restaurant recommendations or to chat over coffee feel free to get in touch!
 
