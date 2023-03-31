@@ -18,4 +18,4 @@ on the side i make terrible websites
 
 if you're in seattle and want some restaurant recommendations or to chat over coffee feel free to get in touch!
 
-`i can most reliably be reached at`: drew@emery.guru
+`i can most reliably be reached at`: go to my website to get this information :)
