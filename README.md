@@ -11,7 +11,7 @@ the hackathon community taught me a lot about the value of collaboration. i used
 my SME fight but i've since learned we'll get to our goals faster together. so SWE, SME, or any other TLA, let's 
 recreate the wheel together.
 
-for work i'm an identity solutions engineer @auth0 / @okta
+for work i'm an sales engineer [@esper](https://esper.io)
 
 on the side i make terrible websites
 
