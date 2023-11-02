@@ -3,7 +3,8 @@ i'm drew emery, pleased to meet you!
 to be honest, i don't know what brought you here
 perhaps some day we can talk and i will find out
 
-for work i'm an software engineer [@feanixbio](https://feanixbio.com)
+i'm currently in search of work; if you think you may know what 
+i should do next, shoot me an email!
 
 on the side i make terrible websites
 
