@@ -9,4 +9,4 @@ for fun i make terrible web apps and ride my bike.
 
 if you ever want to chat over coffee feel free to get in touch!
 
-`i can somewhat reliably be reached at`: andrewbemery@gmail.com
+`i can rather reliably be reached at`: drew at [my last name] dot guru
